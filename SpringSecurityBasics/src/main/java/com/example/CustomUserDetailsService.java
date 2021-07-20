@@ -18,7 +18,7 @@ public class CustomUserDetailsService implements UserDetailsService {
     @Override
     public UserDetails loadUserByUsername(String s) throws UsernameNotFoundException {
 //        return new UsersInfo();
-        return new User("rohan2", "rohan2", Arrays.asList(new SimpleGrantedAuthority(  "user")));
+        return new User("rohan2", "rohan2", Arrays.asList(new SimpleGrantedAuthority(  "ROLE_"+ "user")));
     }
 
 //    static class UsersInfo implements UserDetails, Serializable {
