@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringSecurityHttpBasic" />
+        <module name="SpringSecurityOAuth" />
+        <module name="SpringSecurityWithAuth0" />
+        <module name="SpringSecurityBasics" />
+        <module name="SpringSecurityJwtType2" />
+        <module name="SpringSecurityOAuth2WithAuth0" />
+        <module name="SpringSecurityJWT" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringSecurityBasics" target="1.8" />
+      <module name="SpringSecurityBasics (1)" target="1.8" />
+      <module name="SpringSecurityHttpBasic" target="1.8" />
+      <module name="SpringSecurityJWT" target="1.8" />
+      <module name="SpringSecurityJwtType2" target="1.8" />
+      <module name="SpringSecurityOAuth" target="1.8" />
+      <module name="SpringSecurityOAuth2WithAuth0" target="1.8" />
+      <module name="SpringSecurityWithAuth0" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringSecurityBasics" options="-parameters" />
+      <module name="SpringSecurityHttpBasic" options="-parameters" />
+      <module name="SpringSecurityJWT" options="-parameters" />
+      <module name="SpringSecurityJwtType2" options="-parameters" />
+      <module name="SpringSecurityOAuth" options="-parameters" />
+      <module name="SpringSecurityOAuth2WithAuth0" options="-parameters" />
+      <module name="SpringSecurityWithAuth0" options="-parameters" />
+    </option>
+  </component>
+</project>

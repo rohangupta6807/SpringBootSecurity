@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringSecurityBasics/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityJWT/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityOAuth/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityJwtType2/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityWithAuth0/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityHttpBasic/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityOAuth2WithAuth0/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

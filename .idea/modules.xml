@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityBasics/SpringSecurityBasics.iml" filepath="$PROJECT_DIR$/SpringSecurityBasics/SpringSecurityBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityHttpBasic/SpringSecurityHttpBasic.iml" filepath="$PROJECT_DIR$/SpringSecurityHttpBasic/SpringSecurityHttpBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityJWT/SpringSecurityJWT.iml" filepath="$PROJECT_DIR$/SpringSecurityJWT/SpringSecurityJWT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityJwtType2/SpringSecurityJwtType2.iml" filepath="$PROJECT_DIR$/SpringSecurityJwtType2/SpringSecurityJwtType2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityOAuth/SpringSecurityOAuth.iml" filepath="$PROJECT_DIR$/SpringSecurityOAuth/SpringSecurityOAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityOAuth2WithAuth0/SpringSecurityOAuth2WithAuth0.iml" filepath="$PROJECT_DIR$/SpringSecurityOAuth2WithAuth0/SpringSecurityOAuth2WithAuth0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityWithAuth0/SpringSecurityWithAuth0.iml" filepath="$PROJECT_DIR$/SpringSecurityWithAuth0/SpringSecurityWithAuth0.iml" />
+    </modules>
+  </component>
+</project>
