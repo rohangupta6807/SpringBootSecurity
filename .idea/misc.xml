@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/SpringSecurityWithAuth0/pom.xml" />
         <option value="$PROJECT_DIR$/SpringSecurityHttpBasic/pom.xml" />
         <option value="$PROJECT_DIR$/SpringSecurityOAuth2WithAuth0/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurityInvalidateSession/pom.xml" />
       </list>
     </option>
   </component>
