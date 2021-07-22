@@ -15,7 +15,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
     @Autowired
     private CustomUserDetailsService customUserDetailsService;
     @Autowired
-    private CustomInvalidateSessionStrategy customInvalidateSessionStrategy;
+    private CustomInvalidSessionStrategy customInvalidSessionStrategy;
 
     // For Authentication
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {
@@ -57,7 +57,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
                 .and().formLogin();
         http
                 .sessionManagement()
-                .invalidSessionStrategy(customInvalidateSessionStrategy);
+                .invalidSessionStrategy(customInvalidSessionStrategy);
 
     }
 }

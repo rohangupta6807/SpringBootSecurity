@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringSecurityBasics/SpringSecurityBasics.iml" filepath="$PROJECT_DIR$/SpringSecurityBasics/SpringSecurityBasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurityHttpBasic/SpringSecurityHttpBasic.iml" filepath="$PROJECT_DIR$/SpringSecurityHttpBasic/SpringSecurityHttpBasic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SpringSecurityInvalidateSession/SpringSecurityInvalidateSession.iml" filepath="$PROJECT_DIR$/SpringSecurityInvalidateSession/SpringSecurityInvalidateSession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringSecurityInvalidateSession/SpringSecurityInvalidSessionStrategy.iml" filepath="$PROJECT_DIR$/SpringSecurityInvalidateSession/SpringSecurityInvalidSessionStrategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurityJWT/SpringSecurityJWT.iml" filepath="$PROJECT_DIR$/SpringSecurityJWT/SpringSecurityJWT.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurityJwtType2/SpringSecurityJwtType2.iml" filepath="$PROJECT_DIR$/SpringSecurityJwtType2/SpringSecurityJwtType2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringSecurityOAuth/SpringSecurityOAuth.iml" filepath="$PROJECT_DIR$/SpringSecurityOAuth/SpringSecurityOAuth.iml" />

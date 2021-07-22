@@ -8,11 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SpringSecurityHttpBasic" />
         <module name="SpringSecurityOAuth" />
-        <module name="SpringSecurityInvalidateSession" />
         <module name="SpringSecurityWithAuth0" />
         <module name="SpringSecurityBasics" />
         <module name="SpringSecurityJwtType2" />
         <module name="SpringSecurityOAuth2WithAuth0" />
+        <module name="SpringSecurityInvalidSessionStrategy" />
         <module name="SpringSecurityJWT" />
       </profile>
     </annotationProcessing>
@@ -20,7 +20,7 @@
       <module name="SpringSecurityBasics" target="1.8" />
       <module name="SpringSecurityBasics (1)" target="1.8" />
       <module name="SpringSecurityHttpBasic" target="1.8" />
-      <module name="SpringSecurityInvalidateSession" target="1.8" />
+      <module name="SpringSecurityInvalidSessionStrategy" target="1.8" />
       <module name="SpringSecurityJWT" target="1.8" />
       <module name="SpringSecurityJwtType2" target="1.8" />
       <module name="SpringSecurityOAuth" target="1.8" />
@@ -32,7 +32,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="SpringSecurityBasics" options="-parameters" />
       <module name="SpringSecurityHttpBasic" options="-parameters" />
-      <module name="SpringSecurityInvalidateSession" options="-parameters" />
+      <module name="SpringSecurityInvalidSessionStrategy" options="-parameters" />
       <module name="SpringSecurityJWT" options="-parameters" />
       <module name="SpringSecurityJwtType2" options="-parameters" />
       <module name="SpringSecurityOAuth" options="-parameters" />

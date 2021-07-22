@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
 @Component
-public class CustomInvalidateSessionStrategy implements InvalidSessionStrategy {
+public class CustomInvalidSessionStrategy implements InvalidSessionStrategy {
 
     @Autowired
     private InMemoryDataStorageService storageService;
